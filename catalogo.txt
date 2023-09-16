@@ -1,0 +1,6 @@
+Computador
+ACER/16/512/Intel Core i7/Nitro 5/2021/700000.0/10
+NVIDIA GeForce GTX 1650/500W/Mid Tower
+Notebook
+Dell/16/1/Intel Core i7/Dell XPS/2022/750000.0/5
+1920x1080/Teclado RGB/8000
